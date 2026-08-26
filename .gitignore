@@ -1,0 +1,3 @@
+#eliminate object and output elf files
+*.o
+*.elf
