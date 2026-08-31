@@ -1,3 +1,22 @@
-#eliminate object and output elf files
+# Build artifacts
+build/
+bin/
+obj/
 *.o
+*.d
 *.elf
+*.bin
+*.hex
+*.map
+*.srec
+*.axf
+*.su
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.launch
+
+# OS generated files
+Thumbs.db
+.DS_Store
